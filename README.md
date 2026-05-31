@@ -1,9 +1,5 @@
 # 📖 Reference - Cheat Sheets for Developers
 
-[![love](https://badgen.net/badge/make%20with/love/pink)](#)
-[![License](https://badgen.net/badge/license/GPL-3.0/blue)](https://github.com/Fechin/reference/blob/main/LICENSE)
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/FechinLi?style=social)](https://twitter.com/FechinLi)
-
 Reference is a collection of cheat sheets contributed by open source angels. It shares a quick reference cheat sheet for
 developers in a nice layout. \[ [中文版](https://github.com/jaywcjlove/reference) | ... \]
 
@@ -402,20 +398,3 @@ categories:
 
 Only the `title` and `intro` fields are required, and the other options can be left blank.
 
-<a href="https://github.com/Fechin/reference/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Fechin/reference" />
-</a>
-
-## 🐦 Follow us on Twitter
-
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/FechinLi?color=%234a99e9&style=for-the-badge)](https://twitter.com/FechinLi)
-
-Stay up-to-date with our project by following us on Twitter! Get all the latest news and updates right in your feed.
-It's the perfect way to stay in the loop.
-
-<a href="https://buymeacoffee.com/cheatsheets.zip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=cheatsheets.zip&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-## 📃 License
-
-The project is licensed under the [GPL-3.0](https://github.com/Fechin/reference/blob/main/LICENSE) License and is
-maintained by [Fechin](https://github.com/Fechin).
